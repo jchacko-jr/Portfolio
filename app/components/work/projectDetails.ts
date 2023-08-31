@@ -46,7 +46,7 @@ export const projects = [
         techLinks: ["https://www.maxon.net/en/cinema-4d", "https://www.figma.com/" ,"https://www.adobe.com/ro/products/premiere.html"],
         github: "https://www.instagram.com/reel/CuE0CO0Arp1/",
         demo: "https://www.instagram.com/reel/CuE0CO0Arp1/",
-        image: "/projects/2.jpg",
+        image: "/projects/2.png",
         available: true,
     },
     {
