@@ -1,13 +1,5 @@
 import {
-    SiCplusplus,
-    SiFramer,SiGoogledrive,
-    SiGithub, SiNeovim,
-    SiNextdotjs,
-    SiReact,
-    SiRust,
-    SiTailwindcss,
-    SiTypescript,
-    SiZig,
+    
     SiAdobeaftereffects,
     SiAdobephotoshop,
     SiCinema4D,
@@ -25,7 +17,6 @@ export type ProjectProps = {
   techNames: string[];
   techLinks: string[];
   github: string;
-  drive:string;
   demo: string;
   image: string;
   available: boolean;
