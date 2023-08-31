@@ -3,9 +3,9 @@ import "../animations/animate.css";
 import AnimatedBody from "../animations/AnimatedBody";
 import AnimatedTitle from "../animations/AnimatedTitle";
 import {
-    SiAdobeaftereffects, SiAdobefonts,
-    SiAdobeillustrator,SiAdobepremierepro,Sifigma,
-    SiAdobephotoshop, SiAstro, SiCinema4D, SiCplusplus, SiFigma, SiFramer, SiGit,
+    SiAdobeaftereffects,
+    SiAdobeillustrator,SiAdobepremierepro,SiFigma,
+    SiAdobephotoshop, SiAstro, SiCinema4D, SiFramer, SiGit,
     SiGithub,SiVercel,SiFlutter,
     SiGooglechrome, SiGooglefonts,SiUnrealengine,
     SiIntellijidea, SiJavascript, SiKotlin, SiLua,
