@@ -3,8 +3,7 @@ import {
     SiAdobeaftereffects,
     SiAdobephotoshop,
     SiCinema4D,
-    SiFigma, 
-    SiUnrealengine,
+    SiFigma,
     SiAdobepremierepro,
 } from "react-icons/si";
 import {IconType} from "react-icons";
@@ -51,12 +50,25 @@ export const projects = [
     },
     {
         id: 2,
+        name: "GTA HACKATHON PROMO",
+        description:
+            "promotion video done for GTA HACKATHON powered By GTECH MULEARN AND KMEA ",
+        technologies: [SiAdobeaftereffects],
+        techNames: ["AfterEffects"],
+        techLinks: ["https://www.adobe.com/products/aftereffects.html"],
+        github: "https://drive.google.com/file/d/19ZKxDChvJH46QW48wQOJ8wAiMl8Lcpla/view?usp=sharing",
+        demo: "https://drive.google.com/file/d/19ZKxDChvJH46QW48wQOJ8wAiMl8Lcpla/view?usp=sharing",
+        image: "/projects/pro3.png",
+        available: true,
+    },
+    {
+        id: 3,
         name: "Coming Soon",
         description:
             " I'm currently working on a couple of projects. I'll update this section as soon as I'm done.",
-        technologies: [SiUnrealengine ,SiAdobeaftereffects],
-        techNames: ["Unreal Engine 5","AfterEffects"],
-        techLinks: ["https://www.unrealengine.com/" ,"https://www.adobe.com/products/aftereffects.html"],
+        technologies: [SiCinema4D,SiFigma,SiAdobepremierepro],
+        techNames: ["Cinema4D", "Figma","Premire Pro"],
+        techLinks: ["https://www.maxon.net/en/cinema-4d", "https://www.figma.com/" ,"https://www.adobe.com/ro/products/premiere.html"],
         github: "https://github.com/jchacko-jr/Yip-5.0-Video",
         demo: "https://www.unrealengine.com/",
         image: "/projects/construction.webp",
