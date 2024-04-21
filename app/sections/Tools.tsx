@@ -6,9 +6,9 @@ import {
     SiAdobeaftereffects,
     SiAdobeillustrator,SiAdobepremierepro,SiFigma,
     SiAdobephotoshop, SiAstro, SiCinema4D, SiFramer, SiGit,
-    SiGithub,SiVercel,SiFlutter,
+    SiGithub,SiVercel,SiFlutter,SiLaravel,SiVuedotjs,
     SiGooglechrome, SiGooglefonts,SiUnrealengine,
-    SiIntellijidea, SiJavascript, SiKotlin, SiLua,
+    SiBootstrap , SiJavascript, SiKotlin, SiLua,
     SiNeovim, SiNextdotjs, SiReact, SiRust, SiTypescript, SiWebstorm, SiZig
   
 } from "react-icons/si";
@@ -47,10 +47,10 @@ const Tools = () => {
                         <AnimatedBody delay={0.2} text="Frontend" />
                         <div>
                             <AnimatedTools className="grid grid-cols-5 gap-4" delay={0.2} stepSize={0.1} iconSize={50}>
-                                <SiTypescript size={50}/>
+                                <SiVuedotjs size={50}/>
                                 <SiJavascript size={50}/>
                                 <SiReact size={50}/>
-                                <SiFigma size={50}/>
+                                <SiBootstrap  size={50}/>
                                 <SiNextdotjs size={50}/>
                             </AnimatedTools>
                         </div>
@@ -61,7 +61,7 @@ const Tools = () => {
                             <AnimatedTools className="grid grid-cols-5 gap-4" delay={0.4} stepSize={0.1} iconSize={50}>
                                 <SiGithub size={50}/>
                                 <SiGit size={50}/>
-                                <SiFramer size={50}/>
+                                <SiLaravel size={50}/>
                                 <SiFlutter size={50}/>
                                 <SiVercel size={50}/>
                             </AnimatedTools>
