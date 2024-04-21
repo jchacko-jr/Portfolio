@@ -30,7 +30,7 @@ export const projects = [
         technologies: [SiAdobeaftereffects, SiAdobephotoshop,SiCinema4D,SiFigma,SiAdobepremierepro],
         techNames: ["After Effects", "Photoshop", "Cinema4D", "Figma","Premire Pro"],
         techLinks: ["https://www.adobe.com/products/aftereffects.html", "https://www.adobe.com/products/photoshop.html", "https://www.maxon.net/en/cinema-4d", "https://www.figma.com/" ,"https://www.adobe.com/ro/products/premiere.html"],
-        github: "https://github.com/jchacko-jr/Yip-5.0-Video",
+        github: "https://drive.google.com/file/d/1LfRsjF_zO9-WlJz40lj9AKAFxojff9JC/view?usp=drive_link",
         demo: "https://drive.google.com/file/d/1LfRsjF_zO9-WlJz40lj9AKAFxojff9JC/view?usp=drive_link",
         image: "/projects/port.png",
         available: true,
