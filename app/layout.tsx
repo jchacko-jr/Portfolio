@@ -10,7 +10,7 @@ const syne = Syne({
 });
 
 export const metadata: Metadata = {
-    metadataBase: new URL("https://www.seekvisualartist.com/"),
+    metadataBase: new URL("https://portfolio-jo.vercel.app/"),
     title: "Jomon Chacko Portfolio",
     description:
     "My name is Jomon Chacko and I am a 3D animation artist, a proficient user of Unreal Engine 5, and skilled in video editing and graphic design. With years of experience in these fields, I have honed my skills and am excited to showcase my work to you. I am passionate about visually stunning and engaging content that captivates audiences.",
